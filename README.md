@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Ama's Portfolio</title>
+  <title>Salma Nisrina's Portfolio</title>
   <style>
     body {
       margin: 0;
@@ -74,7 +74,7 @@
 </head>
 <body>
   <header>
-    <div><strong>Ama</strong>'s Corner</div>
+    <div><strong>Amaa</strong>'s Corner</div>
     <nav>
       <a href="#home">Home</a>
       <a href="#about">About Me</a>
@@ -85,7 +85,7 @@
   </header>
 
   <section class="hero" id="home">
-    <h1>Hello, I'm Ama</h1>
+    <h1>Hello, I'm Salma Nisrina Zahra</h1>
     <p>A calm soul who finds joy in stories, songs, and subtle design</p>
   </section>
 
